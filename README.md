@@ -1,2 +1,2 @@
-# ra3-qrcode
+# Juego RA
 Proyecto RA3 UNETI
